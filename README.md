@@ -3,6 +3,7 @@ File Commands
 List files in the directory:
 
 ls
+
 List all files:
 
 ls -a
